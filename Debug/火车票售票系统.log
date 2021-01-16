@@ -1,0 +1,4 @@
+﻿  users.cpp
+D:\火车票售票系统\新\火车票售票系统\users.cpp(21,6): warning C4101: “ticket”: 未引用的局部变量
+D:\火车票售票系统\新\火车票售票系统\users.cpp(146): warning C4715: “User::Login”: 不是所有的控件路径都返回值
+  火车票售票系统.vcxproj -> D:\火车票售票系统\新\火车票售票系统\Debug\火车票售票系统.exe
